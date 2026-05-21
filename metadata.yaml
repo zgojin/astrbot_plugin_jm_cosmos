@@ -1,4 +1,4 @@
-name: JM-Cosmos
-desc: JM漫画下载插件 - 支持搜索、下载禁漫天堂的漫画本子，基于jmcomic库，支持加密PDF/ZIP打包
-version: v2.6.6
-author: 长安某 https://github.com/GEMILUXVII/astrbot_plugin_jm_cosmos
+name: JM-Cosmos # 这是你的插件的唯一识别名。
+desc: JM漫画下载插件 - 支持搜索、下载禁漫天堂的漫画本子，基于jmcomic库，支持加密PDF/ZIP打包 # 插件简短描述
+version: v2.1.1 # 插件版本号。格式：v1.1.1 或者 v1.1
+author: 长安某 # 作者 https://github.com/GEMILUXVII/astrbot_plugin_jm_cosmos
